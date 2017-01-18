@@ -1,0 +1,16 @@
+{
+  "name": "(module-madness)",
+  "version": "1.0.0",
+  "description": "Module Madness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Erik Noonan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
