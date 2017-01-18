@@ -12,5 +12,13 @@
   "author": "Erik Noonan",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noonsky/Module-Madness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Noonsky/Module-Madness/issues"
+  },
+  "homepage": "https://github.com/Noonsky/Module-Madness#readme"
 }
